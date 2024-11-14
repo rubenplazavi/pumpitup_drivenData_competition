@@ -1,0 +1,1 @@
+This is the work made for a driven data competition, it has the raw dataset, the algorith and every aspect that has been used to analize the water problem. It has also included the treated solution with the format for the competition.
